@@ -96,6 +96,11 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ## 👤 作者について
 
 Python学習中の個人開発者によるポートフォリオ兼ツール集です。  
-実用性と実装力の証明として公開しています。  
+実用性と実装力の証明として公開しています。
 
+---
+
+## 📄 ライセンス
+
+このプロジェクトは [MIT License](./LICENSE) のもとで公開されています。
 ---
